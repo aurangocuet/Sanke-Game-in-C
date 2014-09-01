@@ -1,4 +1,3 @@
-// Snake developed by Thanos Dimitrakopoulos
 
 #include <stdio.h>
 #include <stdlib.h>
